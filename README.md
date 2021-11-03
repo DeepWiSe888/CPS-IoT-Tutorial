@@ -48,4 +48,18 @@ The second session focuses on Octopus itself, providing more technical details a
 | 1.30pm   | Part 1: From general RF sensing to Octopus |
 | 2.00pm   | Part 2: Endowing AI to Octopus for versatile sensing |
 | 2.40pm   | Part 3: Q&A |
+| 3pm - 3.30pm| Break |
+| 3.30pm - 5.30pm | Session 2 |
+| 3.30pm | Part 4: The construction of Octopus |
+| 4.00pm | Part 5: From CSI tools to PicoScenes RF sensing middleware|
+| 4.30pm | Part 6: Demo: contact-free RF sensing |
+| 5.00pm | Part 7: Q&A and final remarks |
+
+### Organizer Bios
+Prof. Jun Luo is a tenured professor in the School of Computer Science and Engineering, Nanyang Technological University (NTU) in Singapore. He has spent the past 20 years in developing networked computing and sensing systems for serving IoT applications, and his current research interests include mobile and pervasive computing, machine learning and computer vision, as well as applied operations research. He has served in the TPC and Editorial Board of several international conferences and journals, including an Area TPC Chair for IEEE INFOCOM. More information can be found at https://personal.ntu.edu.sg/junluo. 
+
+Dr. Zhe Chen is the Co-Founder of AIWiSe Ltd. Inc. (https://aiwise.wirush.ai/). He obtained his PhD degree from Fudan University, China, with a 2019 ACM SIGCOMM Doctoral Dissertation Award. Before joining AIWiSe, he worked as a research fellow in NTU for two years, and his research achievements, along with his efforts in launching products based on them, have thus earned him 2021 ACM SIGMOBILE Rising Star Award recently. His current research interests including wireless networking, mobile and pervasive computing, and embedded systems. More information can be found at https://rabbitnick.github.io. 
+
+Dr. Zhiping Jiang is a Lecturer in the School of Computer Science and Technology, Xidian University, Xi’an, China. He has published 30 papers in Wi-Fi/RFID/acoustic-based wireless sensing. Since 2018, he and his team have started developing the PicoScenes Wi-Fi sensing middleware and high-performance Wi-Fi baseband implementation for SDR. His current research interests include wireless sensing, pervasive computing, wireless/ acoustic wideband communication, and embedded system. More information can be found at https://zpj.io.
+
 
