@@ -42,4 +42,10 @@ The second session focuses on Octopus itself, providing more technical details a
 
 ### Tentative Schedule
 
+| Time         | Topic |
+| ----------- | ----------- |
+| 1.30pm - 3pm      | Session 1       |
+| 1.30pm   | Part 1: From general RF sensing to Octopus |
+| 2.00pm   | Part 2: Endowing AI to Octopus for versatile sensing |
+| 2.40pm   | Part 3: Q&A |
 
