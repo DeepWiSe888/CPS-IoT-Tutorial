@@ -26,6 +26,7 @@ As we are not sure if we can make it to the conference site for an in-person pre
 ### Format
 
 The Octopus tutorial is scheduled as a half-day tutorial (4 hours), organized into two sessions.
+
 The first session will be made up of two presentations followed by a Q&A. It will include an introduction to a unified RF sensing model and how it is leveraged in Octopus, followed by another discussion on AI-driven RF sensing, and how to deploy these AI modules into Octopus to enable various edge sensing capabilities. This session will be conducted by Prof. Luo, and a short Q&A is allocated to solve question concerning the first session.
 
 The second session focuses on Octopus itself, providing more technical details about how it is constructed and how to make use of its individual components. We would also like to introduce PicoScenes, a middleware component of the overall Octopus ecosystem, simultaneously supporting both radar and Wi-Fi sensing (including USRP). This is then followed by a few demonstrations conducted according to the sensing capabilities discussed in earlier sessions. We also plan to have a final Q&A at the end of the tutorial to address questions towards the whole tutorial, while providing guidelines and support for the researchers who are interested to adopt Octopus for their research. This session will be jointed conducted by Dr. Chen and Dr. Jiang, but all three organizers will be there to address the overall questions.
