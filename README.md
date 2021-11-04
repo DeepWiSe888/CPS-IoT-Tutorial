@@ -2,7 +2,7 @@
 ![avatar](./534261636005586_.pic_hd.jpg)
 
 ## Octopus: Versatile Wideband MIMO Sensing Platform for Edge Intelligence in AIoT
-<center>Organizers: Jun Luo, Zhe Chen, Zhiping Jiang</center>
+<center>Organizers: Jun Luo, Zhe Chen, Zhiping Jiang</center><br>
 
 
 
