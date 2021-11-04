@@ -4,10 +4,10 @@
 <!-- <center class="half">
 <img src="./533421635997874_.pic.jpg" /><img src="./533431635997879_.pic.jpg" /> 
 </center> -->
-<figure class="half">
-    <img src="./533421635997874_.pic.jpg">
-    <img src="./533431635997879_.pic.jpg">
-</figure>
+<center class="half">
+    <img src="./533421635997874_.pic.jpg" width="300">
+    <img src="./533431635997879_.pic.jpg" width="300">
+</center>
 
 ## Octopus: Versatile Wideband MIMO Sensing Platform for Edge Intelligence in AIoT
 
