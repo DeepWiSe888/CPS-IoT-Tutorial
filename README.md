@@ -1,7 +1,8 @@
 ![avatar](./22251636023793_.pic.jpg)
 ![avatar](./534261636005586_.pic_hd.jpg)
 
-<center>## Octopus: Versatile Wideband MIMO Sensing Platform for Edge Intelligence in AIoT</center>
+##<center>Octopus: Versatile Wideband MIMO Sensing Platform for Edge Intelligence in AIoT</center>
+
 <center>Organizers: Jun Luo, Zhe Chen, Zhiping Jiang</center>
 
 Radio frequency (RF) technologies have changed our world and obtained a significant success in both communication and sensing. On one hand, a wide range of RF signals have been employed for wireless communication such as Wi-Fi and LTE, delivering a ubiquitous connectivity to us. On the other hand, RF signals are further exploited for sensing in recent year, and promising progress has since been achieved. Novel sensing models and algorithms have been developed for user localization or tracking, human activities/gesture recognition, and vital signs monitoring. Compared with traditional device-based sensing approaches, RF sensing has the unique advantages of being both device-free and contact-free.
