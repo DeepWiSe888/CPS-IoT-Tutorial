@@ -1,4 +1,4 @@
-![avatar](./22251636023793_.pic.jpg)
+![avatar](./22541636093518_.pic.jpg)
 ![avatar](./534261636005586_.pic_hd.jpg)
 
 <!-- ## Octopus: Versatile Wideband MIMO Sensing Platform for Edge Intelligence in AIoT -->
