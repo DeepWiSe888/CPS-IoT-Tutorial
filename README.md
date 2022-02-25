@@ -7,6 +7,10 @@
 
 <div align='center'><font size='4'>Organizers: Jun Luo, Zhe Chen, Zhiping Jiang </font></div><br>
 
+###News and Announcements
+Despite the best efforts of the whole organizing committee, the tail of the pandemic is preventing us from running CPS-IoT Week with an in-person component, as we planned originally. CPS-IoT Week will therefore run as a virtual event. Opting for this choice instead of a hybrid event was a tough decision where we had to strike a balance among several constraints. Detailed information, including registration options, will be available shortly on the website of CPS-IoT Week and of all its conferences and related events.
+
+
 Radio frequency (RF) technologies have changed our world and obtained a significant success in both communication and sensing. On one hand, a wide range of RF signals have been employed for wireless communication such as Wi-Fi and LTE, delivering a ubiquitous connectivity to us. On the other hand, RF signals are further exploited for sensing in recent year, and promising progress has since been achieved. Novel sensing models and algorithms have been developed for user localization or tracking, human activities/gesture recognition, and vital signs monitoring. Compared with traditional device-based sensing approaches, RF sensing has the unique advantages of being both device-free and contact-free.
 
 Though promising, most sensing solutions are hosted on Commercial Off-The-Shelf (COTS) chipset such as Wi-Fi cards and Software Defined Radio (SDR) platforms. However, the high-end hardware components (e.g., the high sampling rate ADCs) of SDR platforms are prohibitively expensive and hence unlikely to be available on commodity hardware. Therefore, the better performance of SDR can hardly be relevant to real-life deployments. Meanwhile, great efforts have been devoted to Wi-Fi sensing using Intel and Atheros Wi-Fi chipsets. While optimistic results have been achieved in controlled setups under lab environments, severe performance degradation caused by the communication-oriented design of Wi-Fi may take place in real-life deployments. Finally, most up-to-date RF sensing systems do not operate in a standalone basis, as they often require an external computing device to perform signal processing. This seriously limits their ability in wide-scale edge deployments.
@@ -24,9 +28,9 @@ As a middleware component of the overall Octopus ecosystem, [PicoScenes](https:/
 ### Knowledge that the Audience will Gather with the Tutorial
 We will explain the fundamentals of RF-sensing and how Octopus approaches it with its compact yet versatile design. Then we use our hands-on experience to demonstrate how these components can be leveraged to construct various edge sensing capabilities for AIoT applications. By the end of the tutorial the attendees will have a unified view on the variety of RF sensing techniques/platforms; they will learn how Octopus performs RF-sensing differently from existing proposals, which makes it practical for edge deployment in AIoT scenarios; the will also how to readily access the functionalities provided by Octopus (partially supported by PicoScenes) and hence ready to adopt it for their own developments.
 
-As we are not sure if we can make it to the conference site for an in-person presentation, the tutorial is currently schedule as an online one, though adapting it to an in-person tutorial is very straightforward. Because Octopus is not a pure software platform, we may not be able to let the attendees to experience via hands-on experiments, so we plan to conduct simple demonstrations that can be readily understandable even in the online mode.
+<!-- As we are not sure if we can make it to the conference site for an in-person presentation, the tutorial is currently schedule as an online one, though adapting it to an in-person tutorial is very straightforward. Because Octopus is not a pure software platform, we may not be able to let the attendees to experience via hands-on experiments, so we plan to conduct simple demonstrations that can be readily understandable even in the online mode. -->
 
-
+Now the tutorial is currently schedule as an online one. Octopus is not a pure software platform, we may not be able to let the attendees to experience via hands-on experiments, so we plan to conduct simple demonstrations that can be readily understandable even in the online mode.
 
 ### Format
 
