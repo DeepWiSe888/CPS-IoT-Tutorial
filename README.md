@@ -7,7 +7,7 @@
 
 <div align='center'><font size='4'>Organizers: Jun Luo, Zhe Chen, Zhiping Jiang </font></div><br>
 
-###News and Announcements
+### News and Announcements
 Despite the best efforts of the whole organizing committee, the tail of the pandemic is preventing us from running CPS-IoT Week with an in-person component, as we planned originally. CPS-IoT Week will therefore run as a virtual event. Opting for this choice instead of a hybrid event was a tough decision where we had to strike a balance among several constraints. Detailed information, including registration options, will be available shortly on the website of CPS-IoT Week and of all its conferences and related events.
 
 
