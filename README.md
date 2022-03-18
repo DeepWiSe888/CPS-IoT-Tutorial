@@ -48,10 +48,17 @@ The second session focuses on Octopus itself, providing more technical details a
 | Time         | Topic |
 | ----------- | ----------- |
 | 9.00am - 10.15am      | Session 1|
+| 9.00am   | Part 1: From general RF sensing to Octopus |
+| 9.30am   | Part 2: Endowing AI to Octopus for versatile sensing |
+| 9.45pm   | Part 3: Q&A |
 | 10.15am - 10.30am| Break |
 | 10.30am - 11.30am | Session 2 |
+| 10.30am | Part 4: The construction of Octopus |
+| 11.00am | Part 5: From CSI tools to PicoScenes RF sensing middleware|
 | 11.30am - 11.45am| Break |
 | 11.45am - 12.45am | Session 3 |
+| 11.45am | Part 6: Demo: contact-free RF sensing |
+| 12.15am | Part 7: Q&A and final remarks |
 
 ### Organizer Bios
 Prof. Jun Luo is a tenured professor in the School of Computer Science and Engineering, Nanyang Technological University (NTU) in Singapore. He has spent the past 20 years in developing networked computing and sensing systems for serving IoT applications, and his current research interests include mobile and pervasive computing, machine learning and computer vision, as well as applied operations research. He has served in the TPC and Editorial Board of several international conferences and journals, including an Area TPC Chair for IEEE INFOCOM. More information can be found [here](https://personal.ntu.edu.sg/junluo). 
